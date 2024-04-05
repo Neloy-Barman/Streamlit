@@ -1,2 +1,2 @@
-# Text Elements Demo
+# Text Demo
 <img src="text.png">
