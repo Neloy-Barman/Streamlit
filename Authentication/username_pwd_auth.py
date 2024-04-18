@@ -1,6 +1,7 @@
 import streamlit as st
 
 # Initialize state to:
+# Store the username
 # Store the password
 # Check if the password is correct
 # Check if the form is submitted
